@@ -1,3 +1,3 @@
 # Machinelearning
 
-[My image](kronosvamsi.github.com/Machinelearning/img/regress.jpg)
+[My image](C:\Users\coderabhishek7\Downloads\regress.jpg)
